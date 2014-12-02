@@ -1,0 +1,53 @@
+	Babylon.js Exporter version: 1.1.0, Blender version: 2.72 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Python World class constructor completed
+	processing begun of material:  levels.Material.001
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/tux.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/tux.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/tux.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/tux_NRM.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/tux_NRM.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/tux_NRM.png' are the same file
+	processing begun of material:  levels.Material.002
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/ocean.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/ocean.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/ocean.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/ocean_NRM.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/ocean_NRM.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/ocean_NRM.png' are the same file
+	processing begun of material:  levels.Material.004
+	processing begun of material:  levels.Material.005
+	Diffuse texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/ICE.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/ICE.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/ICE.png' are the same file
+	Bump texture found
+Error encountered processing image file:  /Users/jesseolsson/joshud05.github.io/outstandingtux/ICE_NRM.png, Error:  '/Users/jesseolsson/joshud05.github.io/outstandingtux/ICE_NRM.png' and '/Users/jesseolsson/joshud05.github.io/outstandingtux/ICE_NRM.png' are the same file
+	processing begun of light:  Sun
+	processing begun of light:  Hemi
+	processing begun of mesh:  level.1
+		num positions      :  526
+		num normals        :  526
+		num uvs            :  1052
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2880
+	processing begun of mesh:  ocean
+		num positions      :  4
+		num normals        :  4
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of camera:  Camera
+	processing begun of mesh:  Plane
+		num positions      :  420
+		num normals        :  420
+		num uvs            :  840
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1104
+	processing begun of mesh:  tux
+		num positions      :  1740
+		num normals        :  1740
+		num uvs            :  3480
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8562
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
